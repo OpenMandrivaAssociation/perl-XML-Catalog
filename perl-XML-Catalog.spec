@@ -11,6 +11,7 @@ License:	Perl (Artistic or GPL)
 Group:		Development/Perl
 BuildRequires:	perl
 BuildRequires:	perl(ExtUtils::MakeMaker)
+BuildRequires:	perl(Test::More)
 BuildArch:	noarch
 
 %description
