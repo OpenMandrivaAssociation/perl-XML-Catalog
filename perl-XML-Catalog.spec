@@ -13,6 +13,7 @@ BuildRequires:	perl
 BuildRequires:	perl(ExtUtils::MakeMaker)
 BuildRequires:	perl(Test::More)
 BuildRequires:	perl(XML::Parser)
+BuildRequires:	perl(LWP::Simple)
 BuildArch:	noarch
 
 %description
